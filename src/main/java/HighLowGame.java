@@ -6,7 +6,7 @@ Date Last Modified: Apr 27, 2026 */
 import java.util.Scanner;  // Used to get user input
 import java.util.Random;   // Used to generate random numbers
 
-public class ProblemSet {
+public class HighLowGame {
     public static void main(String[] args) {
 
         // Create Scanner object to read keyboard input

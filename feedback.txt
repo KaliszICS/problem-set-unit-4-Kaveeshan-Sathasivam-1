@@ -1,0 +1,13 @@
+K(30%): 100
+I(30%): 93
+C(10%): 95
+A(30%): 95
+95.9%
+
+Your range checker is including numbers in high that shouldn't be when there are 2 even numbers. (You forgot to add one in the menu)
+Don't over comment your code, It should be easy to read, not a novel.
+Incorrect order of range should have just been invalid.
+Random Range could have just been low + high / 2
+Remember to use functions to help organize your code and avoid repeated code (number checks and validations)
+You should use two middles.  A lower and higher which should be set to ceil and floor.  This would have allowed you to avoid the problems you ran into in your code and mean you don't need to know if its a 2 even version or not.
+Low and High should display 1 number when there is only 1 option.
